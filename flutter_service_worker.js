@@ -7,10 +7,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "3e311e58382fd406ea2162443ca40c26",
-"/": "3e311e58382fd406ea2162443ca40c26",
+"index.html": "3c44c950bf5742484527299eb0f6a582",
+"/": "3c44c950bf5742484527299eb0f6a582",
 "version.json": "9094aacdae789dccd67fa32109ff1a18",
-"assets/NOTICES": "d4a90f365947a27436096273c7a66e79",
+"assets/NOTICES": "56a17718e0c47499055ecbf8a242d55b",
 "assets/AssetManifest.json": "7c79af81706cacd7adbdadcd449d077b",
 "assets/FontManifest.json": "07212456f609268b26d2063ebc1d1e9b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
@@ -25,11 +25,11 @@ const RESOURCES = {
 "assets/assets/images/calamardo.gif": "c68d8c83b8494f297eed8243eae9ff8e",
 "assets/assets/images/portfolio-web.gif": "a8e47e25c635d18fb9a672ddceb30422",
 "assets/assets/images/background.webp": "feeb2ea87229b10c67cfca6205a87061",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"main.dart.js": "ae0b9fb5f90d7f3215e00d3876ca5dc2"
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"main.dart.js": "ad3b1effb4cf04684849d37d5f63399d"
 };
 
 // The application shell files that are downloaded before a service worker can
